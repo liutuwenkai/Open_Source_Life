@@ -1,7 +1,7 @@
 # Open_Source_Life
 Nose Art Projects. 开源生命
 这是一个叫刘涂文锴的人开启的艺术项目 An Art Project Made By Liutuwenkai. 
-源代码作者 Source Code Author: Renan Souza Daniel
+源代码作者 Source Code Author: Renan Souza Daniel ，发布于 https://pastebin.com/LTj9uPn9
 ## 解释 Remarks 1.0 by Liutuwenkai：
 作品的第一个版本是一个不会自动运行的细胞机生命游戏，用的是兰顿蚂蚁的规则。
 The first version of this project is a Conway's Life Game in the rule of Langton's Ant without automatically processing. 
